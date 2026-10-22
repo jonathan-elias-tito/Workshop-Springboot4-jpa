@@ -34,5 +34,9 @@ Este é um projeto de estudo desenvolvido durante um workshop de **Spring Boot**
 ## 🗄️ Banco de Dados
 
 O projeto utiliza o **H2 Database** em modo de teste, permitindo fácil execução sem configuração adicional.
-## Autor 
-Jonathan Elias
+
+## 👨‍💻 Desenvolvedor
+
+### Jonathan Elias
+- [LinkedIn](https://www.linkedin.com/)
+- [GitHub](https://github.com/jonathan-elias-tito)
